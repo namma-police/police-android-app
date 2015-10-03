@@ -10,7 +10,7 @@ import io.socket.client.Socket;
 import io.socket.emitter.Emitter;
 
 /**
- * Created by adarshasaraff on 04/10/15.
+ * Created  on 04/10/15.
  */
 public class SocketService extends Service implements Emitter.Listener {
 

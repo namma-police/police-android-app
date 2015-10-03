@@ -10,7 +10,7 @@ import android.widget.Button;
 import android.widget.EditText;
 
 /**
- * Created by adarshasaraff on 04/10/15.
+ * Created on 04/10/15.
  */
 public class FragmentSettings extends Fragment {
 

@@ -26,7 +26,7 @@ import java.net.URL;
 import java.util.HashMap;
 
 /**
- * Created by on 04/10/15.
+ * Created  on 04/10/15.
  */
 public class FragmentLogin extends Fragment {
 
@@ -102,15 +102,22 @@ public class FragmentLogin extends Fragment {
                     @Override
                     protected void onPostExecute(String s) {
 
-                        if (responseCode == HttpURLConnection.HTTP_ACCEPTED) {
+                        if (responseCode == 200) {
                             try {
                                 JSONObject jsonObj = new JSONObject(s);
 //                            System.out.print(jsonObj.toString());
                                 String results = jsonObj.getString("status");
+                                String userId= jsonObj.getString("userId");
+                                String displayName= jsonObj.getString("displayName");
+                                HashMap<String, String> userInfo = new HashMap<>();
+                                userInfo.put("USER_ID",userId);
+                                userInfo.put("USER_NAME",displayName);
+                                userInfo.put("PHONE",userId);
 //                                Log.d("results", results);
                                 if (results.matches("loggedIn"))
                                 {
-                                    NammaPoliceRakshak.saveUser(getActivity().getApplicationContext(), new HashMap<String, String>());
+
+                                    NammaPoliceRakshak.saveUser(getActivity().getApplicationContext(), userInfo);
                                     new Handler().postDelayed(new Runnable() {
                                         @Override
                                         public void run() {
