@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/adarshasaraff/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.4.0/5b72bf48563ea8410e650de14aa33ff69a3e8c35/okio-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/okio-1.4.0-ff62182744a38b1c0fced6808c756a48c7eafca2.jar" />
+    </item>
+    <item
+        jar="/Users/adarshasaraff/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-ws/2.4.0/69206d28966656052a982ceded583abdeb41cf63/okhttp-ws-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="69206d28966656052a982ceded583abdeb41cf63">
+        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/okhttp-ws-2.4.0-ab2b6f813ab4a34c3842f89aa962f90e347b29fc.jar" />
+    </item>
+    <item
+        jar="/Users/adarshasaraff/.gradle/caches/modules-2/files-2.1/io.socket/socket.io-client/0.6.1/81cd1f1489968207e61b269dc0964f34e7b5a544/socket.io-client-0.6.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="81cd1f1489968207e61b269dc0964f34e7b5a544">
+        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/socket.io-client-0.6.1-deb8c824eb1a3920055eaa15c932f3a975011a09.jar" />
+    </item>
+    <item
+        jar="/Users/adarshasaraff/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.19/a8f23f65fc1e522ee4a1a697ee569901a46741fa/library-1.0.19.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/library-1.0.19-e4d2c3a9ba3124cc36c878a35ceeb1d1ef518acb.jar" />
+    </item>
+    <item
+        jar="/Users/adarshasaraff/.gradle/caches/modules-2/files-2.1/io.socket/engine.io-client/0.6.1/39d4884a8c83649a24538ebc3674110d8b26db38/engine.io-client-0.6.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="39d4884a8c83649a24538ebc3674110d8b26db38">
+        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/engine.io-client-0.6.1-379a6e9639d25116c65ef30f45926fddb8705d0b.jar" />
+    </item>
+    <item
+        jar="/Users/adarshasaraff/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.4.0/40340c0748190fe897baf7bffbc1b282734294e5/okhttp-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/okhttp-2.4.0-905c78e7b97d4ada02cba7ae04fb2e7a3da1e5f7.jar" />
+    </item>
+
+</items>
