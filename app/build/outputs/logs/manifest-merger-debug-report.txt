@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/src/main/AndroidManifest.xml:2:1-56:12
+ADDED from /Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/src/main/AndroidManifest.xml:2:1-64:12
 	package
 		ADDED from /Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/src/main/AndroidManifest.xml:3:5-73
 		INJECTED from /Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/src/main/AndroidManifest.xml
@@ -54,17 +54,17 @@ ADDED from /Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/src/main/An
 	android:name
 		ADDED from /Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/src/main/AndroidManifest.xml:8:22-78
 uses-permission#nammapolice.ak.com.theateam.nammapolice.MAPS_RECEIVE
-ADDED from /Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/src/main/AndroidManifest.xml:10:5-92
+ADDED from /Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/src/main/AndroidManifest.xml:9:5-92
 	android:name
-		ADDED from /Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/src/main/AndroidManifest.xml:10:22-89
+		ADDED from /Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/src/main/AndroidManifest.xml:9:22-89
 permission#nammapolice.ak.com.theateam.nammapolice.MAPS_RECEIVE
-ADDED from /Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/src/main/AndroidManifest.xml:12:5-14:47
+ADDED from /Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/src/main/AndroidManifest.xml:11:5-13:47
 	android:protectionLevel
-		ADDED from /Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/src/main/AndroidManifest.xml:14:9-44
+		ADDED from /Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/src/main/AndroidManifest.xml:13:9-44
 	android:name
-		ADDED from /Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/src/main/AndroidManifest.xml:13:9-76
+		ADDED from /Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/src/main/AndroidManifest.xml:12:9-76
 application
-ADDED from /Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/src/main/AndroidManifest.xml:16:5-54:19
+ADDED from /Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/src/main/AndroidManifest.xml:15:5-62:19
 MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.0.1] /Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:23.0.1] /Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/AndroidManifest.xml:22:5-20
@@ -179,17 +179,19 @@ MERGED from [com.google.android.gms:play-services-basement:8.1.0] /Users/adarsha
 MERGED from [com.android.support:support-v4:23.0.1] /Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.0.1] /Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
 	android:screenOrientation
-		ADDED from /Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/src/main/AndroidManifest.xml:18:9-45
+		ADDED from /Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/src/main/AndroidManifest.xml:19:9-45
 	android:label
-		ADDED from /Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/src/main/AndroidManifest.xml:20:9-41
+		ADDED from /Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/src/main/AndroidManifest.xml:18:9-41
 	android:supportsRtl
 		ADDED from /Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/src/main/AndroidManifest.xml:21:9-35
 	android:allowBackup
-		ADDED from /Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/src/main/AndroidManifest.xml:17:9-35
+		ADDED from /Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/src/main/AndroidManifest.xml:16:9-35
 	android:icon
-		ADDED from /Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/src/main/AndroidManifest.xml:19:9-43
+		ADDED from /Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/src/main/AndroidManifest.xml:17:9-43
 	android:theme
 		ADDED from /Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/src/main/AndroidManifest.xml:22:9-40
+	android:name
+		ADDED from /Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/src/main/AndroidManifest.xml:20:9-43
 activity#nammapolice.theateam.com.ak.nammapolice.nammapolicerakshak.LoginActivity
 ADDED from /Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/src/main/AndroidManifest.xml:23:9-32:20
 	android:label
@@ -230,6 +232,18 @@ ADDED from /Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/src/main/An
 		ADDED from /Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/src/main/AndroidManifest.xml:53:13-52
 	android:name
 		ADDED from /Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/src/main/AndroidManifest.xml:52:13-58
+activity#nammapolice.theateam.com.ak.nammapolice.nammapolicerakshak.IssueActivity
+ADDED from /Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/src/main/AndroidManifest.xml:55:9-59:20
+	android:label
+		ADDED from /Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/src/main/AndroidManifest.xml:57:13-57
+	android:theme
+		ADDED from /Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/src/main/AndroidManifest.xml:58:13-56
+	android:name
+		ADDED from /Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/src/main/AndroidManifest.xml:56:13-42
+service#nammapolice.theateam.com.ak.nammapolice.nammapolicerakshak.SocketService
+ADDED from /Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/src/main/AndroidManifest.xml:61:9-50
+	android:name
+		ADDED from /Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/src/main/AndroidManifest.xml:61:18-47
 uses-sdk
 INJECTED from /Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:20:5-43
@@ -452,7 +466,7 @@ MERGED from [com.google.android.gms:play-services-maps:8.1.0] /Users/adarshasara
 	android:required
 		ADDED from [com.google.android.gms:play-services-maps:8.1.0] /Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/AndroidManifest.xml:25:8-31
 android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from /Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/src/main/AndroidManifest.xml:2:1-56:12 reason: com.google.android.gms.maps requested WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/src/main/AndroidManifest.xml:2:1-64:12 reason: com.google.android.gms.maps requested WRITE_EXTERNAL_STORAGE
 uses-permission#com.google.android.c2dm.permission.RECEIVE
 ADDED from [com.google.android.gms:play-services-gcm:8.1.0] /Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.1.0/AndroidManifest.xml:21:5-82
 	android:name

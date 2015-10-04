@@ -66,7 +66,7 @@ public class FragmentLogin extends Fragment {
                             connection.setDoOutput(true);
 
                             Uri.Builder _data = new Uri.Builder()
-                                    .appendQueryParameter("policeId", params[0])
+                                    .appendQueryParameter("userId", params[0])
                                     .appendQueryParameter("password", params[1]);
                             BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(connection.getOutputStream(), "UTF-8"));
                             writer.write(_data.build().getEncodedQuery());

@@ -405,7 +405,7 @@
     <!-- From: file:/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/src/debug/res/values/google_maps_api.xml -->
     <eat-comment/>
     <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
-         AIzaSyD5ad0h--UrW_eZ9DTtS7U_tmGnYQHbUyg
+        AIzaSyA7_BRKJrT2TR-HYKzqfox0_u8S335c8ec
     </string>
     <!-- From: file:/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/res/values/values.xml -->
     <eat-comment/>
@@ -428,6 +428,7 @@
     <string name="store_picture_title">Save image</string>
     <!-- From: file:/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/src/main/res/values/strings.xml -->
     <eat-comment/>
+    <string name="title_activity_issue">Citizen in distress!!!</string>
     <string name="title_activity_map">Map</string>
     <string name="title_activity_register">Police Registration</string>
     <!-- From: file:/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.1.0/res/values/wallet_strings.xml -->

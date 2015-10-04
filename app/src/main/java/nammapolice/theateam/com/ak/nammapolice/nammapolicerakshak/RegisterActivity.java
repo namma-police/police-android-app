@@ -72,7 +72,7 @@ public class RegisterActivity extends AppCompatActivity {
                 connection.setDoOutput(true);
                 connection.setRequestMethod("POST");
 
-                Uri.Builder _data = new Uri.Builder().appendQueryParameter("displayName",name).appendQueryParameter("policeId",policeId).appendQueryParameter("phone",phno).appendQueryParameter("email", email).
+                Uri.Builder _data = new Uri.Builder().appendQueryParameter("displayName",name).appendQueryParameter("userId",policeId).appendQueryParameter("phone",phno).appendQueryParameter("email", email).
                         appendQueryParameter("password", pwd);
                 BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(connection.getOutputStream(), "UTF-8"));
                 writer.write(_data.build().getEncodedQuery());
