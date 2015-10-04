@@ -50,6 +50,7 @@ public class MapActivity extends FragmentActivity implements OnMapReadyCallback,
 
     SocketService sosService;
     String UserId;
+    String DisplayName;
 
 
 
@@ -61,7 +62,7 @@ public class MapActivity extends FragmentActivity implements OnMapReadyCallback,
             try {
                 JSONObject jsonResult = new JSONObject(response);
                 final String IssueId = jsonResult.getString("issueId");
-                JSONObject citizenDetails = jsonResult.getJSONObject("citizenDetails");
+                final JSONObject citizenDetails = jsonResult.getJSONObject("citizenDetails");
                 JSONObject location = citizenDetails.getJSONObject("location");
                 final String address = location.getString("address");
                 JSONArray coordinates = location.getJSONArray("coordinates");
@@ -83,6 +84,45 @@ public class MapActivity extends FragmentActivity implements OnMapReadyCallback,
                 // Setting Positive "Yes" Button
                 alertDialog.setPositiveButton("YES", new DialogInterface.OnClickListener() {
                     public void onClick(DialogInterface dialog, int which) {
+
+
+                        new AsyncTask<String, Void, String>() {
+                            int responseCode;
+
+                            @Override
+                            protected String doInBackground(String... params) {
+                                try {
+                                    URL url = new URL(NammaPoliceRakshak.SERVER_URL + "/request/acknowledge/");
+                                    HttpURLConnection connection = (HttpURLConnection) url.openConnection();
+                                    connection.setDoInput(true);
+                                    connection.setDoOutput(true);
+                                    JSONObject policedetails=new JSONObject();
+                                    policedetails.put("userId",UserId);
+                                    policedetails.put("displayName",displayName);
+                                    Uri.Builder _data = new Uri.Builder()
+                                            .appendQueryParameter("issueId", params[0]).appendQueryParameter("citizenDetails",citizenDetails.toString()).appendQueryParameter("policeDetails",policedetails.toString());
+                                    BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(connection.getOutputStream(), "UTF-8"));
+                                    writer.write(_data.build().getEncodedQuery());
+                                    writer.flush();
+                                    writer.close();
+
+                                } catch (Exception ex) {
+                                    ex.printStackTrace();
+                                }
+                                return null;
+                            }
+
+                            @Override
+                            protected void onPostExecute(String s) {
+
+
+                            }
+                        }.execute(IssueId);
+
+
+
+
+
                         // User pressed YES button. Write Logic Here
                         Intent intents = new Intent(MapActivity.this, IssueActivity.class);
                         intents.putExtra("citizenName", displayName);
@@ -91,8 +131,8 @@ public class MapActivity extends FragmentActivity implements OnMapReadyCallback,
                         intents.putExtra("phone", PhoneNumber);
                         intents.putExtra("latitude", Double.valueOf(latitude));
                         intents.putExtra("longitude", Double.valueOf(longitude));
-
                         startActivity(intents);
+
                     }
                 });
 
@@ -132,6 +172,7 @@ public class MapActivity extends FragmentActivity implements OnMapReadyCallback,
 
         Intent intent = new Intent(this, SocketService.class);
         UserId = current.get("USER_ID");
+        DisplayName=current.get("USER_NAME");
         intent.putExtra("USER_ID", current.get("USER_ID"));
         intent.putExtra("USER_NAME", current.get("USER_NAME"));
         startService(intent);

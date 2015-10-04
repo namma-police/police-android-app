@@ -2,53 +2,11 @@
 <items version="2" >
 
     <item
-        jar="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.1.0/jars/classes.jar"
+        jar="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.1.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
-        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/classes-bf03765ee768bfa1368a32c680f1cc4a93f328de.jar" />
-    </item>
-    <item
-        jar="/Users/adarshasaraff/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.4.0/5b72bf48563ea8410e650de14aa33ff69a3e8c35/okio-1.4.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
-        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/okio-1.4.0-ff62182744a38b1c0fced6808c756a48c7eafca2.jar" />
-    </item>
-    <item
-        jar="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
-        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/classes-95edc670c8bf56f5a99e9e4891d2a16a0f24ee0d.jar" />
-    </item>
-    <item
-        jar="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
-        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/classes-6d054c83e4d06162dc4bcce957e9de12aac1601f.jar" />
-    </item>
-    <item
-        jar="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
-        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/classes-1a209d5eccac805581972270351b4c0bbfdcf5a9.jar" />
-    </item>
-    <item
-        jar="/Users/adarshasaraff/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.19/a8f23f65fc1e522ee4a1a697ee569901a46741fa/library-1.0.19.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
-        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/library-1.0.19-e4d2c3a9ba3124cc36c878a35ceeb1d1ef518acb.jar" />
-    </item>
-    <item
-        jar="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-bf43871e95d28adfd877b819d53d54c0464be8ff.jar" />
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/classes-0388a4907f8980073493ca7304d294e6de714316.jar" />
     </item>
     <item
         jar="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
@@ -58,18 +16,67 @@
         <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/classes-7e2a928fca7414155c3326fe8557dd1bcae92fdb.jar" />
     </item>
     <item
-        jar="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.1.0/jars/classes.jar"
+        jar="/Users/adarshasaraff/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.19/a8f23f65fc1e522ee4a1a697ee569901a46741fa/library-1.0.19.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
-        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/classes-c60df0d6b52e564333c3d96aa1a550f07b426c6a.jar" />
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/library-1.0.19-e4d2c3a9ba3124cc36c878a35ceeb1d1ef518acb.jar" />
     </item>
     <item
-        jar="/Users/adarshasaraff/.gradle/caches/modules-2/files-2.1/io.socket/socket.io-client/0.6.1/81cd1f1489968207e61b269dc0964f34e7b5a544/socket.io-client-0.6.1.jar"
+        jar="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.1.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="81cd1f1489968207e61b269dc0964f34e7b5a544">
-        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/socket.io-client-0.6.1-deb8c824eb1a3920055eaa15c932f3a975011a09.jar" />
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/classes-9ee9d2a7874a80fe4e13506c1cf5f0cd3cb69e35.jar" />
+    </item>
+    <item
+        jar="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/classes-accee57917255971edebbe80e026e708a95f52fe.jar" />
+    </item>
+    <item
+        jar="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-bf43871e95d28adfd877b819d53d54c0464be8ff.jar" />
+    </item>
+    <item
+        jar="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/classes-7817a4d9d137a5b2bac309ed1f297624b95510e9.jar" />
+    </item>
+    <item
+        jar="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/classes-455ee41019e144fcef644a8969bc992867bb84a0.jar" />
+    </item>
+    <item
+        jar="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/classes-1a209d5eccac805581972270351b4c0bbfdcf5a9.jar" />
+    </item>
+    <item
+        jar="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/classes-a1f72a0bfb5e5a89f068d307ce5122bf15f84558.jar" />
+    </item>
+    <item
+        jar="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/classes-c2f7721bb0aea845c3e85f8f7121a9d35e747e26.jar" />
     </item>
     <item
         jar="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.1.0/jars/classes.jar"
@@ -86,116 +93,11 @@
         <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/engine.io-client-0.6.1-379a6e9639d25116c65ef30f45926fddb8705d0b.jar" />
     </item>
     <item
-        jar="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
-        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/classes-efcd5eec56b90fdadccec90ba47c144b5e976c83.jar" />
-    </item>
-    <item
-        jar="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
-        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/classes-455ee41019e144fcef644a8969bc992867bb84a0.jar" />
-    </item>
-    <item
-        jar="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="482de223655d06253cc6a4955d653f8994169500">
-        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/classes-7817a4d9d137a5b2bac309ed1f297624b95510e9.jar" />
-    </item>
-    <item
-        jar="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="997773777cf3904c11d6764fe3b7668538220e49">
-        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/classes-adbdeb0ba604f9c0ac1e29db19a53e8a902fd882.jar" />
-    </item>
-    <item
-        jar="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
-        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/classes-a1f72a0bfb5e5a89f068d307ce5122bf15f84558.jar" />
-    </item>
-    <item
-        jar="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
-        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/classes-e9f26a809a87697972751cab1e13adf480ba1d21.jar" />
-    </item>
-    <item
-        jar="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
-        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/classes-85f6cb95fcd3b6120fa849a4b6a2b28a556b5a1d.jar" />
-    </item>
-    <item
-        jar="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
-        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/classes-bc0a4ec178e4defba1804461cda0bf35fe92dd17.jar" />
-    </item>
-    <item
-        jar="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
-        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/classes-accee57917255971edebbe80e026e708a95f52fe.jar" />
-    </item>
-    <item
-        jar="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="3178362320bcf51228835b60ff978efadfd1f783">
-        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/classes-c2f7721bb0aea845c3e85f8f7121a9d35e747e26.jar" />
-    </item>
-    <item
         jar="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
         <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-3b18cf457e8ed4f833f7da8f7886cdd8e8057901.jar" />
-    </item>
-    <item
-        jar="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
-        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/classes-9ee9d2a7874a80fe4e13506c1cf5f0cd3cb69e35.jar" />
-    </item>
-    <item
-        jar="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
-        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/classes-fa053fa2e347af6e2893488f89b3eec1d8157185.jar" />
-    </item>
-    <item
-        jar="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="95758a2905669affbffc5ddd262921d375674fad">
-        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/classes-25a2edb048d0d7efa60637c200c6cc68a26943e8.jar" />
-    </item>
-    <item
-        jar="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
-        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/classes-c5159f06ca17d7b99f8b45cefe1ab87516059e08.jar" />
-    </item>
-    <item
-        jar="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
-        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/classes-d0f90b0c5e7dfdca6336876ab4a29c28934ade6f.jar" />
     </item>
     <item
         jar="/Users/adarshasaraff/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
@@ -205,11 +107,32 @@
         <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-c3632886f24ad31645f468c452ed98b7e454d98c.jar" />
     </item>
     <item
-        jar="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.1.0/jars/classes.jar"
+        jar="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.1.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
-        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/classes-0388a4907f8980073493ca7304d294e6de714316.jar" />
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/classes-bc0a4ec178e4defba1804461cda0bf35fe92dd17.jar" />
+    </item>
+    <item
+        jar="/Users/adarshasaraff/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.4.0/40340c0748190fe897baf7bffbc1b282734294e5/okhttp-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/okhttp-2.4.0-905c78e7b97d4ada02cba7ae04fb2e7a3da1e5f7.jar" />
+    </item>
+    <item
+        jar="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/classes-85f6cb95fcd3b6120fa849a4b6a2b28a556b5a1d.jar" />
+    </item>
+    <item
+        jar="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/classes-c5159f06ca17d7b99f8b45cefe1ab87516059e08.jar" />
     </item>
     <item
         jar="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
@@ -219,11 +142,95 @@
         <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/classes-16955be7edab5bb2e574b12ad2483fe0428051e4.jar" />
     </item>
     <item
-        jar="/Users/adarshasaraff/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.4.0/40340c0748190fe897baf7bffbc1b282734294e5/okhttp-2.4.0.jar"
+        jar="/Users/adarshasaraff/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.4.0/5b72bf48563ea8410e650de14aa33ff69a3e8c35/okio-1.4.0.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
-        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/okhttp-2.4.0-905c78e7b97d4ada02cba7ae04fb2e7a3da1e5f7.jar" />
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/okio-1.4.0-ff62182744a38b1c0fced6808c756a48c7eafca2.jar" />
+    </item>
+    <item
+        jar="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/classes-c60df0d6b52e564333c3d96aa1a550f07b426c6a.jar" />
+    </item>
+    <item
+        jar="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/classes-25a2edb048d0d7efa60637c200c6cc68a26943e8.jar" />
+    </item>
+    <item
+        jar="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/classes-e9f26a809a87697972751cab1e13adf480ba1d21.jar" />
+    </item>
+    <item
+        jar="/Users/adarshasaraff/.gradle/caches/modules-2/files-2.1/io.socket/socket.io-client/0.6.1/81cd1f1489968207e61b269dc0964f34e7b5a544/socket.io-client-0.6.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="81cd1f1489968207e61b269dc0964f34e7b5a544">
+        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/socket.io-client-0.6.1-deb8c824eb1a3920055eaa15c932f3a975011a09.jar" />
+    </item>
+    <item
+        jar="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/classes-adbdeb0ba604f9c0ac1e29db19a53e8a902fd882.jar" />
+    </item>
+    <item
+        jar="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/classes-efcd5eec56b90fdadccec90ba47c144b5e976c83.jar" />
+    </item>
+    <item
+        jar="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/classes-95edc670c8bf56f5a99e9e4891d2a16a0f24ee0d.jar" />
+    </item>
+    <item
+        jar="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/classes-d0f90b0c5e7dfdca6336876ab4a29c28934ade6f.jar" />
+    </item>
+    <item
+        jar="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/classes-bf03765ee768bfa1368a32c680f1cc4a93f328de.jar" />
+    </item>
+    <item
+        jar="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/classes-fa053fa2e347af6e2893488f89b3eec1d8157185.jar" />
+    </item>
+    <item
+        jar="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/classes-6d054c83e4d06162dc4bcce957e9de12aac1601f.jar" />
+    </item>
+    <item
+        jar="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/classes-2d11d18def66f77c879d5e8cf0d3d292b5112b2c.jar" />
     </item>
     <item
         jar="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
@@ -238,13 +245,6 @@
         revision="23.0.1"
         sha1="69206d28966656052a982ceded583abdeb41cf63">
         <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/okhttp-ws-2.4.0-ab2b6f813ab4a34c3842f89aa962f90e347b29fc.jar" />
-    </item>
-    <item
-        jar="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="17449c47df35c754b257532052f1270c444f7993">
-        <dex dex="/Users/adarshasaraff/Desktop/Final/NammaPoliceRakshak/app/build/intermediates/pre-dexed/debug/classes-2d11d18def66f77c879d5e8cf0d3d292b5112b2c.jar" />
     </item>
 
 </items>
